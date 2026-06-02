@@ -13,4 +13,4 @@ Notes of ICT class 1-9
 	• Select text letter by letter- shift + arrow
 	• Select word by word- shift + cntrl + arrow
 	• Select word- mouse double click
-    •   Select line - triple mouse click
+    • Select line - triple mouse click
